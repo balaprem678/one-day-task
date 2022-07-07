@@ -3,6 +3,7 @@
   overflow: hidden;
     width: 555px;
     height: auto;
+    margin: 0 auto;
 }
 .spade p {
   position: relative;
@@ -16,7 +17,7 @@
   height: 18px;
   font-size: 6px;
   position: absolute;
-  right: 404px;
+  right: 257px;
   top: 2px;
 }
 .freeshipping p {
@@ -26,13 +27,11 @@
   font-size: 9px;
 }
 .saturday p {
-  position: absolute;
-  top: 23px;
-  left: 20px;
+ margin: 11px 0 0 20px;
   font-size: 2em;
 }
 .navigation {
-  margin: 52px 0 0 11px;
+  margin: 9px 0 0 11px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   width: 543px;
@@ -109,17 +108,20 @@
 }
 .go p {
   position: absolute;
-  top: 630px;
-  left: 143px;
-  font-size: 43px;
-  font-family: sans-serif;
-  word-spacing: 20px;
-  letter-spacing: 1px;
+    top: 630px;
+    left: 397px;
+    color: #89d7e4;
+    font-style: revert;
+    font-weight: 700;
+    font-size: 43px;
+    font-family: sans-serif;
+    word-spacing: 20px;
+    letter-spacing: 1px;
 }
 .footer1 p {
   position: absolute;
   top: 706px;
-  left: 168px;
+  left: 421px;
   font-size: 12px;
   font-family: "Poppins";
 }
